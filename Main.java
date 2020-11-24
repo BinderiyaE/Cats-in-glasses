@@ -40,5 +40,12 @@ public class Main {
       int result = a - b;
       System.out.println("The subtraction of the values is equal to "+result);
     }
-}
+      public static void methodBinderiya( int num1, int num2){
+         // author Binderiya Enkhbayar.
+         // method will multiply two numbers.
+      int product = num1 * num2;
+      System.out.println("Output: "+product);
+    }
+     
+
 
