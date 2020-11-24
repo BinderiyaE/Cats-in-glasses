@@ -1,0 +1,9 @@
+int x = 15;
+int y = 25;
+int z = 35;
+//variation 1
+int q = x + (y * z);
+System.out.println("Result 1 = " + q);
+variation 2
+q = (x + y) * z;
+System.out.println("Result 2 = " + q);
